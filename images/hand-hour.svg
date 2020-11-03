@@ -1,3 +1,1 @@
-<svg id="clock" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 58">
-  <rect x="-21" y="23" width="56" height="12" rx="5.7" transform="translate(-22 36) rotate(-90)" fill="#666"/>
-</svg>
+<svg viewBox="0 0 14 58" xmlns="http://www.w3.org/2000/svg"><rect fill="#666" height="12" rx="5.7" transform="matrix(0 -1 1 0 -22 36)" width="56" x="-21" y="23"/></svg>
